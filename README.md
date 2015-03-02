@@ -61,4 +61,4 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | Deceptive Ports                | 130           | Here |
 | The Numberic Approach          | 150           | Here |
 
-(1)[q1/Survey.md]
+(1)[/q1/Survey.md]
