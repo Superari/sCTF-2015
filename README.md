@@ -19,9 +19,6 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 * Zonshen Yu - [username](https://github.com/username)
 
 ##Problem List
-Survey - 10
-I Like Bacon - 15
-That Sounds Delicious - 15
 
 | Problem                        | Points        | Link |
 |--------------------------------|:-------------:| -----:|
@@ -55,6 +52,13 @@ That Sounds Delicious - 15
 | Every 7 Seconds                | 65            | Here |
 | 196-Algorithm                  | 75            | Here |
 | Q.E.S.                         | 80            | Here |
-| Slashes                        | 85            | Here |
-| Slashes                        | 85            | Here |
-| Slashes                        | 85            | Here |
+| Overflow 2                     | 90            | Here |
+| Degrees Kelvin                 | 90            | Here |
+| Obfuscated Python              | 101           | Here |
+| Acoustician                    | 105           | Here |
+| Bob's Private Server           | 110           | Here |
+| Large Numbers                  | 120           | Here |
+| Deceptive Ports                | 130           | Here |
+| The Numberic Approach          | 150           | Here |
+
+
