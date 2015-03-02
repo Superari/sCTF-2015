@@ -23,42 +23,45 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | Problem                        | Points        | Link |
 |--------------------------------|:-------------:| -----:|
 | Survey                         | 10            | [Here](1) |
-| I Like Bacon                   | 15            | Here |
-| That Sounds Delicious          | 15            | Here |
-| Impromptu GET                  | 15            | Here |
-| Graphics Interchange Format    | 15            | Here |
-| Flufferduff                    | 20            | Here |
-| Simple Guessing Game           | 20            | Here |
-| Hello World                    | 25            | Here |
-| MD5                            | 30            | Here |
-| Not-So-Simple-Guessing Game    | 35            | Here |
-| Cipherception                  | 35            | Here |
-| Crib Drag                      | 35            | Here |
-| MD5_2                          | 40            | Here |
-| aGFtcHduZXIz                   | 40            | Here |
-| Busy Beaver Problem            | 45            | Here |
-| The Turing Machine WWII        | 45            | Here |
-| 180 Degrees                    | 45            | Here |
-| strpos                         | 45            | Here |
-| No Yen To Use                  | 50            | Here |
-| Big Real Estete                | 55            | Here |
-| Cruel Guessing Game            | 55            | Here |
-| 1.21 Warp                      | 55            | Here |
-| test                           | 60            | Here |
-| Overflow                       | 60            | Here |
-| Cookies                        | 60            | Here |
-| SQL                            | 60            | Here |
-| Coney                          | 60            | Here |
-| Every 7 Seconds                | 65            | Here |
-| 196-Algorithm                  | 75            | Here |
-| Q.E.S.                         | 80            | Here |
-| Overflow 2                     | 90            | Here |
-| Degrees Kelvin                 | 90            | Here |
-| Obfuscated Python              | 101           | Here |
-| Acoustician                    | 105           | Here |
-| Bob's Private Server           | 110           | Here |
-| Large Numbers                  | 120           | Here |
-| Deceptive Ports                | 130           | Here |
-| The Numberic Approach          | 150           | Here |
+| I Like Bacon                   | 15            | [Here](2) |
+| That Sounds Delicious          | 15            | [Here](3) |
+| Impromptu GET                  | 15            | [Here](4) |
+| Graphics Interchange Format    | 15            | [Here](5) |
+| Flufferduff                    | 20            | [Here](6) |
+| Simple Guessing Game           | 20            | [Here](7) |
+| Hello World                    | 25            | [Here](8) |
+| MD5                            | 30            | [Here](9) |
+| Not-So-Simple-Guessing Game    | 35            | [Here](10) |
+| Cipherception                  | 35            | [Here](11) |
+| Crib Drag                      | 35            | [Here](12) |
+| MD5_2                          | 40            | [Here](13) |
+| aGFtcHduZXIz                   | 40            | [Here](14) |
+| Busy Beaver Problem            | 45            | [Here](15) |
+| The Turing Machine WWII        | 45            | [Here](16) |
+| 180 Degrees                    | 45            | [Here](17) |
+| strpos                         | 45            | [Here](18) |
+| No Yen To Use                  | 50            | [Here](19) |
+| Big Real Estete                | 55            | [Here](20) |
+| Cruel Guessing Game            | 55            | [Here](21) |
+| 1.21 Warp                      | 55            | [Here](22) |
+| test                           | 60            | [Here](23) |
+| Overflow                       | 60            | [Here](24) |
+| Cookies                        | 60            | [Here](25) |
+| SQL                            | 60            | [Here](26) |
+| Coney                          | 60            | [Here](27) |
+| Every 7 Seconds                | 65            | [Here](28) |
+| 196-Algorithm                  | 75            | [Here](29) |
+| Q.E.S.                         | 80            | [Here](30) |
+| Overflow 2                     | 90            | [Here](31) |
+| Degrees Kelvin                 | 90            | [Here](32) |
+| Obfuscated Python              | 101           | [Here](33) |
+| Acoustician                    | 105           | [Here](34) |
+| Bob's Private Server           | 110           | [Here](35) |
+| Large Numbers                  | 120           | [Here](36) |
+| Deceptive Ports                | 130           | [Here](37) |
+| The Numberic Approach          | 150           | [Here](38) |
 
-(1)[Superari/sCTF-2015/tree/master/q1/I Like Bacon.md]
+(1)[https://github.com/Superari/sCTF-2015/blob/master/q1/Survey.md]
+(2)[https://github.com/Superari/sCTF-2015/blob/master/q1/I Like Bacon.md]
+(3)[https://github.com/Superari/sCTF-2015/blob/master/q1/That Sounds Delicious.md]
+(4)[https://github.com/Superari/sCTF-2015/blob/master/q1/Impromptu GET.md]
