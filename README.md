@@ -14,9 +14,9 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 ##Competitors
 
 * Felipe Faria - [sync](https://github.com/Synchronizing)
-* Alejandro Lucena - [username](https://github.com/username)
+* Alejandro Lucena - [hincoin](https://github.com/Hincoin)
 * Richard Liu - [username](https://github.com/username)
-* Zonshen Yu - [username](https://github.com/username)
+* Zonshen Yu - [Muggist](https://github.com/Muggist)
 
 ##Problem List
 
