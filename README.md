@@ -22,10 +22,10 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 
 | Problem                        | Points        | Link |
 |--------------------------------|:-------------:| -----:|
-| Survey                         | 10            | [Here](1) |
-| I Like Bacon                   | 15            | [Here](2) |
-| That Sounds Delicious          | 15            | [Here](3) |
-| Impromptu GET                  | 15            | [Here](4) |
+| Survey                         | 10            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Survey.md) |
+| I Like Bacon                   | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/I Like Bacon.md) |
+| That Sounds Delicious          | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/That Sounds Delicious.md) |
+| Impromptu GET                  | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Impromptu GET.md) |
 | Graphics Interchange Format    | 15            | [Here](5) |
 | Flufferduff                    | 20            | [Here](6) |
 | Simple Guessing Game           | 20            | [Here](7) |
@@ -60,8 +60,3 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | Large Numbers                  | 120           | [Here](36) |
 | Deceptive Ports                | 130           | [Here](37) |
 | The Numberic Approach          | 150           | [Here](38) |
-
-(1)[https://github.com/Superari/sCTF-2015/blob/master/q1/Survey.md]
-(2)[https://github.com/Superari/sCTF-2015/blob/master/q1/I Like Bacon.md]
-(3)[https://github.com/Superari/sCTF-2015/blob/master/q1/That Sounds Delicious.md]
-(4)[https://github.com/Superari/sCTF-2015/blob/master/q1/Impromptu GET.md]
