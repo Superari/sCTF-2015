@@ -47,11 +47,14 @@ That Sounds Delicious - 15
 | Big Real Estete                | 55            | Here |
 | Cruel Guessing Game            | 55            | Here |
 | 1.21 Warp                      | 55            | Here |
-| <h1></h1>                      | 60            | Here |
+| test                           | 60            | Here |
 | Overflow                       | 60            | Here |
 | Cookies                        | 60            | Here |
 | SQL                            | 60            | Here |
 | Coney                          | 60            | Here |
 | Every 7 Seconds                | 65            | Here |
 | 196-Algorithm                  | 75            | Here |
-| 196-Algorithm                  | 75            | Here |
+| Q.E.S.                         | 80            | Here |
+| Slashes                        | 85            | Here |
+| Slashes                        | 85            | Here |
+| Slashes                        | 85            | Here |
