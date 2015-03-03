@@ -1,4 +1,4 @@
-# Impromptu GET
+# Impromptu GET - 15
 
 ##Problem
 Jonathan cloned our router online access page again... Model number BRL-04FXP by bRoad Lanner. Except there's been a slight issue, he didn't copy any of the elements on the page used to login and we lost the username and password, but there's some sensitive data we need to recover.
@@ -25,4 +25,3 @@ The page would now return:
 ##Flag
 
 >getting_is_fun
-

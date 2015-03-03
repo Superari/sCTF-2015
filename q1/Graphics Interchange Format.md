@@ -21,5 +21,3 @@ The flag is noticibly within the file.
 ##Flag
 
 >gandalfthebest
-
-
