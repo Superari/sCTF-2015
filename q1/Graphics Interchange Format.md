@@ -5,9 +5,9 @@
 
 
 ##Solution
-Due to the name the logical thing to do is simply Google ```Graphics Interchange Format``` which would lead the user to the wikipedia page for [GIF](http://en.wikipedia.org/wiki/GIF). After reading a bit one would notice the header (```38 39 61```) and the terminating (```3B```). After consulting a trusty hex editor it was noticed everything was fine, and thus no file was added within the GIF. Despite the fact, a clear quirk can be seen at the end of the image, suggesting there is something within its bytes causing a sudden morph. 
+Due to the name of the problem, the most logical thing to do was simply Google ```Graphics Interchange Format``` which would lead the user to the wikipedia page [GIF](http://en.wikipedia.org/wiki/GIF). After reading a bit one would notice the header (```38 39 61```) and the terminating (```3B```) hex of a standart GIF. After consulting a trusty hex editor it was noticed everything was fine, and thus no modifications was done to the format in itself (joining files together, etc.). Despite the fact, a clear quirk can be seen at the end of the image, suggesting there is something within its bytes causing a sudden morph. 
 
-If one was to start from the end of the files data, upwards (as the quirk happens at the end of the GIF), between offset ```000E8E70``` and ```000E8F20``` one would find the following:
+If one was to start from the end of the files data upwards (as the quirk happens at the end of the GIF), between offset ```000E8E70``` and ```000E8F20``` one would find the following:
 
 ````
 
