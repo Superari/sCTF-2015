@@ -17,26 +17,26 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 
 * Felipe Faria - [sync](https://github.com/Synchronizing)
 * Alejandro Lucena - [hincoin](https://github.com/Hincoin)
-* Richard Liu - [username](https://github.com/username)
+* Richard Liu - [Dracae](https://github.com/Dracae)
 * Zonshen Yu - [Muggist](https://github.com/Muggist)
 
 ##Problem List
 
-| Problem                        | Points        | Link 																				 | Status  |
-|--------------------------------|:-------------:| -------------------------------------------------------------------------------------:| ------  |
-| Survey                         | 10            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Survey.md) 				 | Done    |
-| I Like Bacon                   | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/I Like Bacon.md) 		 | Done    |
-| That Sounds Delicious          | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/That Sounds Delicious.md) | Done    |
-| Impromptu GET                  | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Impromptu GET.md) 		 | Done    |
-| Graphics Interchange Format    | 15            | [Here](5) 																			 | Pending |
-| Flufferduff                    | 20            | [Here](6) 																			 | Pending |
-| Simple Guessing Game           | 20            | [Here](7) 																			 | Pending |
-| Hello World                    | 25            | [Here](8) 																			 | Pending |
-| MD5                            | 30            | [Here](9) 																			 | Pending |
-| Not-So-Simple-Guessing Game    | 35            | [Here](10) 																			 | Pending |
-| Cipherception                  | 35            | [Here](11) 																			 | Pending |
-| Crib Drag                      | 35            | [Here](12) 																			 | Pending |
-| MD5_2                          | 40            | [Here](13) 																			 | Pending |
+| Problem                        | Points        | Link 																				 			   | Status  |
+|--------------------------------|:-------------:| ---------------------------------------------------------------------------------------------------:| ------  |
+| Survey                         | 10            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Survey.md) 				 			   | Done    |
+| I Like Bacon                   | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/I Like Bacon.md) 		 			   | Done    |
+| That Sounds Delicious          | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/That Sounds Delicious.md) 			   | Done    |
+| Impromptu GET                  | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Impromptu GET.md) 		 			   | Done    |
+| Graphics Interchange Format    | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Graphics Interchange Format.md)         | Done	 |
+| Flufferduff                    | 20            | [Here](6) 																			 			   | Pending |
+| Simple Guessing Game           | 20            | [Here](7) 																			 			   | Pending |
+| Hello World                    | 25            | [Here](8) 																			 			   | Pending |
+| MD5                            | 30            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/MD5.md) 	   	   					   	   | Done	 |
+| Not-So-Simple-Guessing Game    | 35            | [Here](10) 																			 			   | Pending |
+| Cipherception                  | 35            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Cipherception.md) 		  			   | Done	 |
+| Crib Drag                      | 35            | [Here](12) 																			 			   | Pending |
+| MD5_2                          | 40            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/MD5_2.md) 					 		   | Done 	 |
 | aGFtcHduZXIz                   | 40            | [Here](14) 																			 | Pending |
 | Busy Beaver Problem            | 45            | [Here](15) 																			 | Pending |
 | The Turing Machine WWII        | 45            | [Here](16) 																			 | Pending |
@@ -46,7 +46,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | Big Real Estete                | 55            | [Here](20) 																			 | Pending |
 | Cruel Guessing Game            | 55            | [Here](21) 																			 | Pending |
 | 1.21 Warp                      | 55            | [Here](22) 																			 | Pending |
-| test                           | 60            | [Here](23) 																			 | Pending |
+| <h1></h1>                      | 60            | [Here](23) 																			 | Pending |
 | Overflow                       | 60            | [Here](24) 																			 | Pending |
 | Cookies                        | 60            | [Here](25) 																			 | Pending |
 | SQL                            | 60            | [Here](26) 																			 | Pending |

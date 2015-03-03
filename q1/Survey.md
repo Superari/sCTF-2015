@@ -2,7 +2,7 @@
 
 ## Problem
 
->It seems you have stumbled across some free points. You might want to redeem them.
+>It seems you have stumbled across some free points. You might  want to redeem them.
 > Complete the survey and get them.
 >It'd be appreciated if each member completes the survey for accurate information for future competitions.
 
@@ -11,7 +11,7 @@
 
 
 ## Solution
-As stated, this was free points. After completing the survey, the flag was given. 
+As stated, this was free points. After completing the survey, the flag was given.
 
 ## Flag
 >thatwaseasy
