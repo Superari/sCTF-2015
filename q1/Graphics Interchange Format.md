@@ -16,7 +16,7 @@ V‘'Y1Ã.r!ýé.ÿ"ÃrM@sd..ÔÄ.”GË*`ýøå.M.O.ê † 8ˆ Ÿàó ..|.".�
 
 ````
 
-The flag is noticibly within the hex.
+The flag is noticibly within the file.
 
 ##Flag
 
