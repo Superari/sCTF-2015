@@ -1,6 +1,8 @@
 sCTF 2015 Write-ups
 =======
 
+![logo](https://github.com/Superari/sCTF-2015/blob/master/q1/files/banner.png "logo")
+
 ##Introduction
 Capture-The-Flags are computer security competitions that involve a team of individuals to solve problems raging from web-exploits to reverse engineering. sCTF is created by a student-run organization at arnegie Mellon University targeted towards middle and high schoolers.
 
