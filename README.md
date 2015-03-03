@@ -41,7 +41,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```Busy Beaver Problem```            | 45            | [Here](15) 																				   | Pending |
 | ```The Turing Machine WWII```        | 45            | [Here](16) 																			 	   | Pending |
 | ```180 Degrees```                    | 45            | [Here](17) 																			   	   | Pending |
-| ```strpos```                         | 45            | [[Here](https://github.com/Superari/sCTF-2015/blob/master/q1/strpos.md) 				 	   | Done	 |
+| ```strpos```                         | 45            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/strpos.md) 				 	   | Done	 |
 | ```No Yen To Use```                  | 50            | [Here](19) 																			 	   | Pending |
 | ```Big Real Estete```                | 55            | [Here](20) 																			 	   | Pending |
 | ```Cruel Guessing Game```            | 55            | [Here](21) 																			 	   | Pending |

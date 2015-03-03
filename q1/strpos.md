@@ -38,7 +38,7 @@ After some Googling it's found what ```strpos``` and ```strlen``` does:
 
 >strlen — Get string length.
 
-The issue becomes evident. The variable submitted through ```plang``` must contain the string ```answer```, but must also be smaller than lenght ```2```, which is technically impossible. After some Googling on PHP varibales and exploits, it's found that the compare statement ```==``` is (for lack of better terms) broken.
+The issue becomes evident. The variable submitted through ```plang``` must contain the string ```answer```, but must also be smaller than length ```2```, which is technically impossible. After some Googling on PHP varibales and exploits, it's found that the compare statement ```==``` is (for lack of better terms) broken.
 
 Simply running an array through ```plang``` one would validate both conditions within the if statement.
 
