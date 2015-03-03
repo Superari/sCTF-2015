@@ -35,6 +35,7 @@ if(strpos($a,"answer") !== false && strlen($a) < 2)
 After some Googling it's found what ```strpos``` and ```strlen``` does:
 
 >strpos — Find the position of the first occurrence of a substring in a string.
+
 >strlen — Get string length.
 
 The issue becomes evident. The variable submitted through ```plang``` must contain the string ```answer```, but must also be of size ```2```, which is technically impossible. After some Googling on PHP varibales and exploits, it's found that the compare statement ```==``` is (for lack of better terms) broken.
