@@ -15,7 +15,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 
 * Felipe Faria - [sync](https://github.com/Synchronizing)
 * Alejandro Lucena - [hincoin](https://github.com/Hincoin)
-* Richard Liu - [username](https://github.com/username)
+* Richard Liu - [Dracae](https://github.com/Dracae)
 * Zonshen Yu - [Muggist](https://github.com/Muggist)
 
 ##Problem List
@@ -26,7 +26,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | I Like Bacon                   | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/I Like Bacon.md) |
 | That Sounds Delicious          | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/That Sounds Delicious.md) |
 | Impromptu GET                  | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Impromptu GET.md) |
-| Graphics Interchange Format    | 15            | [Here](5) |
+| Graphics Interchange Format    | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Graphics Interchange Format.md) |
 | Flufferduff                    | 20            | [Here](6) |
 | Simple Guessing Game           | 20            | [Here](7) |
 | Hello World                    | 25            | [Here](8) |
