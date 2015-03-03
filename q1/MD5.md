@@ -4,7 +4,9 @@
 
 >Given the following MD5 hash:
 
->```0AB1A9222A15DA1159EB94212C5C8BAF```
+```
+0AB1A9222A15DA1159EB94212C5C8BAF
+```
 
 >There are 3 parts to the original text. The first part is a random number, 0-99 inclusive. The second part is a random letter, lowercase a-z inclusive. The third and final part is a random number, 0-999 inclusive.
 
