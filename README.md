@@ -29,7 +29,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```That Sounds Delicious```          | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/That Sounds Delicious.md) 		   | Done    |
 | ```Impromptu GET```                  | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Impromptu GET.md) 		 		   | Done    |
 | ```Graphics Interchange Format```    | 15            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Graphics Interchange Format.md)   | Done	 |
-| ```Flufferduff```                    | 20            | [Here](6) 																			 		   | Pending |
+| ```Flufferduff```                    | 20            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Flufferduff.md) 																			 		   | Pending |
 | ```Simple Guessing Game```           | 20            | [Here](7) 																			 		   | Pending |
 | ```Hello World```                    | 25            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Hello World.md) 				   | Done	 |
 | ```MD5```                            | 30            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/MD5.md) 	   	   			   	   | Done	 |
