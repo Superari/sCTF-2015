@@ -53,7 +53,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```Coney```                          | 60            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Coney.md)  					   | Done 	 |
 | ```Every 7 Seconds```                | 65            | [Here](28) 																			 	   | Pending |
 | ```196-Algorithm```                  | 75            | [Here](29) 																			 	   | Pending |
-| ```Q.E.S.```                         | 80            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/QES.md) 																			 	   | Pending |
+| ```Q.E.S.```                         | 80            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/QES.md) 																			 	   | Done |
 | ```Overflow 2```                     | 90            | [Here](31) 																			 	   | Pending |
 | ```Degrees Kelvin```                 | 90            | [Here](32) 																			 	   | Pending |
 | ```Obfuscated Python```              | 101           | [Here](33) 																			 	   | Pending |
