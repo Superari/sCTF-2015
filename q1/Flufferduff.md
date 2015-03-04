@@ -14,6 +14,7 @@ This problem is one of the more self-explanatory ones.
 [Flufferduff Pastebin](http://pastebin.com/YgLBpNE5)
 
 If your code doesn't work, sucks... I ain't bug-fixin dat shizzle.
+
 If you brute forced the problem, I salute you!
 
 ##Flag
