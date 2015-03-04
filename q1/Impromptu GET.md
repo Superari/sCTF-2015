@@ -14,7 +14,7 @@ Going to the link the user will be greeted by a simple ```Incorrect.``` message.
 
 >http://compete.sctf.io/problems/2015q1/impromptuget.php?username=&password=
 
-Researching the router given, ```BRL-04FXP by bRoad Lanner default password```, the user would find the default username to be ```blank``` and password ```0000```.
+We don't know what the usename or password was though. Looking in the problem again, they give us the router, which could be important. Researching the router given, ```BRL-04FXP by bRoad Lanner default password```, the user would find the default username to be ```blank``` and password ```0000```.
 
 >http://compete.sctf.io/problems/2015q1/impromptuget.php?username=blank&password=0000
 
