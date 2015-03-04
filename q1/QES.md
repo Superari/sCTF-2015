@@ -6,13 +6,19 @@
 
 ##Solution
 
-Yay for cryptic problems! Where to start? We focus on the file name of the picture, seq.png. From that we can infer that it stands for sequence, and thus the pattern in QES utilizes sequences. However when we try plugging the numbers into https://oeis.org/ , no known sequence is found. We have to assume that QES contains multiple sequences.
+Cryptic problem time! Where to start... We focus on the file name of the picture, seq.png. We assume seq stands for sequence, and we conclude the pattern in QES utilizes sequences. However when we try plugging the numbers into https://oeis.org/ , no known sequence is found. We have to assume that QES contains multiple sequences.
 
-One could recognize the fibonacchi numbers interspread in the table. We check where these numbers are, and it is much more obvious in the later two rows that they appear every three numbers. The first row has four 1's and not all of those are in the fib. sequence. We see its every third number thats part of the sequence. From there, it makes sense that there are two other sequences in the table. The table is split into 1/3 fib and 2/3 other numbers. It's logical to assume they are even so each sequence occupies 1/3 of the table. Also, no other sequence will match the remaining numbers. After plugging in every third number again to the databse, we can figure out the two other seqences. These are the lucas numbers and the pentagonal numbers. 
+Anytime you have sequences, look for fibonacci numbers. CTFs LOVE fibonacci. Here I have highlighted the fibonacci terms I see...
 
-We can also just imagine it being two sequences put together, but when we input every other number into the database nothing shows up. We try it being three sequences together and there we find there are sequences that match it. These are the fibonacci numbers, the lucas numbers, and the pentagonal numbers.
+![redSeq]http://tinyurl.com/qem7mgb "redSeq")
 
-![coloredSeq](http://s16.postimg.org/pwvjc7g5x/QES.png "coloredSeq")
+A suspiciously nice pattern... Every third term starting from the first is part of the fibonacci sequence. We try every third term starting from the second, and with the guiding hand of https://oeis.org/ we discover this second sequence is the lucas sequence! Finally, every third term starting from the third number forms the pentagonal numbers sequence.
+
+![coloredSeq](http://tinyurl.com/qxsebx7 "coloredSeq")
+
+From here, we need to complete the grid, a trivial task.
+
+![fullColoredSeq](http://s16.postimg.org/pwvjc7g5x/QES.png "fullColoredSeq")
 
 The flag is just the rest of the grid.
 
