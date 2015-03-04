@@ -10,7 +10,7 @@ Cryptic problem time! Where to start... We focus on the file name of the picture
 
 Anytime you have sequences, look for fibonacci numbers. CTFs LOVE fibonacci. Here I have highlighted the fibonacci terms I see...
 
-![redSeq]http://tinyurl.com/qem7mgb "redSeq")
+![redSeq](http://tinyurl.com/qem7mgb "redSeq")
 
 A suspiciously nice pattern... Every third term starting from the first is part of the fibonacci sequence. We try every third term starting from the second, and with the guiding hand of https://oeis.org/ we discover this second sequence is the lucas sequence! Finally, every third term starting from the third number forms the pentagonal numbers sequence.
 
