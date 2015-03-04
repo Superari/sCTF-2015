@@ -10,7 +10,11 @@ When *(n) is negative, we call this a flufferduff.
 Find the number of flufferduffs below 1000.
 
 ##Solution
-Blah Blah
+This problem is one of the more self-explanatory ones.
+[Flufferduff Pastebin](http://pastebin.com/YgLBpNE5)
+
+If your code doesn't work, sucks... I ain't bug-fixin dat shizzle.
+If you brute forced the problem, I salute you!
 
 ##Flag
 >991
