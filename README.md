@@ -50,7 +50,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```Overflow```                       | 60            | [Here](24) 																			 	   | Pending |
 | ```Cookies```                        | 60            | [Here](25) 																			 	   | Pending |
 | ```SQL```                            | 60            | [Here](26) 																			 	   | Pending |
-| ```Coney```                          | 60            | [[Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Coney.md)  					   | Done 	 |
+| ```Coney```                          | 60            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Coney.md)  					   | Done 	 |
 | ```Every 7 Seconds```                | 65            | [Here](28) 																			 	   | Pending |
 | ```196-Algorithm```                  | 75            | [Here](29) 																			 	   | Pending |
 | ```Q.E.S.```                         | 80            | [Here](30) 																			 	   | Pending |
