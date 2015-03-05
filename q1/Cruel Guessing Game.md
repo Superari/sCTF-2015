@@ -1,4 +1,4 @@
-# Cruel Guessing Game
+# Cruel Guessing Game - 55
 
 ## Problem
 
