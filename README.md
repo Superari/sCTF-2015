@@ -37,7 +37,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```Cipherception```                  | 35            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Cipherception.md) 		  		   | Done	 |
 | ```Crib Drag```                      | 35            | [Here](12) 																				   | Pending |
 | ```MD5_2```                          | 40            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/MD5_2.md) 				 		   | Done 	 |
-| ```aGFtcHduZXIz```                   | 40            | [Here](14) 																			 	   | Pending |
+| ```aGFtcHduZXIz```                   | 40            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/aGFtcHduZXIz.md) 																			 	   | Done    |
 | ```Busy Beaver Problem```            | 45            | [Here](15) 																				   | Pending |
 | ```The Turing Machine WWII```        | 45            | [Here](16) 																			 	   | Pending |
 | ```180 Degrees```                    | 45            | [Here](17) 																			   	   | Pending |
