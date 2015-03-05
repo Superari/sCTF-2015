@@ -43,7 +43,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```180 Degrees```                    | 45            | [Here](17) 																			   	   | Pending |
 | ```strpos```                         | 45            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/strpos.md) 				 	   | Done	 |
 | ```No Yen To Use```                  | 50            | [Here](19) 																			 	   | Pending |
-| ```Big Real Estete```                | 55            | [Here](20) 																			 	   | Pending |
+| ```Big Real Estate```                | 55            | [Here](20) 																			 	   | Pending |
 | ```Cruel Guessing Game```            | 55            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Cruel%20Guessing%20Game.md) 																			 	   | Done    |
 | ```1.21 Warp```                      | 55            | [Here](22) 																			 	   | Pending |
 | ```<h1></h1>```                      | 60            | [Here](23) 																			 	   | Pending |
