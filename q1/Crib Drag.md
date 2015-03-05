@@ -8,4 +8,4 @@
 ## Solution
 
 Using our google-fu, two very great resources emerge...
-(link 1)[http://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html] (link 2)[https://cryptocult.wordpress.com/cyber-challenges/stanford-cryptography-i-programs/program-1/]
+[link 1](http://travisdazell.blogspot.com/2012/11/many-time-pad-attack-crib-drag.html) [link 2](https://cryptocult.wordpress.com/cyber-challenges/stanford-cryptography-i-programs/program-1/)
