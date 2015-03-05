@@ -60,5 +60,5 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```Acoustician```                    | 105           | [Here](34) 																			 	   | Pending |
 | ```Bob's Private Server```           | 110           | [Here](35) 																			 	   | Pending |
 | ```Large Numbers```                  | 120           | [Here](36) 																			 	   | Pending |
-| ```Deceptive Ports```                | 130           | [Here](37) 																			 	   | Pending |
+| ```Deceptive Ports```                | 130           | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Deceptive%20Ports.md) 																			 	   | Done    |
 | ```The Numberic Approach```          | 150           | [Here](38) 																				   | Pending |
