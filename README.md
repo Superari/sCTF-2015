@@ -44,7 +44,7 @@ Competition took place between ```February 23rd, 2015 at 10:00pm``` to ```March 
 | ```strpos```                         | 45            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/strpos.md) 				 	   | Done	 |
 | ```No Yen To Use```                  | 50            | [Here](19) 																			 	   | Pending |
 | ```Big Real Estete```                | 55            | [Here](20) 																			 	   | Pending |
-| ```Cruel Guessing Game```            | 55            | [Here](21) 																			 	   | Pending |
+| ```Cruel Guessing Game```            | 55            | [Here](https://github.com/Superari/sCTF-2015/blob/master/q1/Cruel%20Guessing%20Game.md) 																			 	   | Pending |
 | ```1.21 Warp```                      | 55            | [Here](22) 																			 	   | Pending |
 | ```<h1></h1>```                      | 60            | [Here](23) 																			 	   | Pending |
 | ```Overflow```                       | 60            | [Here](24) 																			 	   | Pending |
