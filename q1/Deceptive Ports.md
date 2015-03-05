@@ -14,6 +14,7 @@ Hmmm... There isn't any obvious way to legitimately beat SID, so we have to chea
 (http://en.wikipedia.org/wiki/Glossary_of_video_game_terms)
 
 >"WIKIPEDIA HOW CAN I BE INVINCIBLE"
+
 >"USE GODMODE"
 
 We studiosly type ```godmode``` in our next game, and we get +99999999 health! 
